@@ -85,3 +85,13 @@ series.
 
 ** NE_Results_SingleSnapshot.m and NE_Results_TimeSeries.m\
 These scripts extract the outcome of the market clearing problem.
+
+
+*-------------------------------------------------------------------------------------------------------*\
+CITATION
+
+If you use this model for published work, please cite the following paper:
+
+"Andrea Tosatto, Spyros Chatzivasileiadis, HVDC Loss Factors in the Nordic Power Market, Electric Power Systems Research, vol. 190, Jan. 2021, https://doi.org/10.1016/j.epsr.2020.106710."
+
+*-------------------------------------------------------------------------------------------------------*
